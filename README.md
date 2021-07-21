@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/TagListView.svg?style=flat)](https://github.com/ElaWorkshop/TagListView/blob/master/LICENSE)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+This fork simply removes the @IBDesignable element.
+
+
 Simple and highly customizable iOS tag list view, in Swift.
 
 Supports Storyboard, Auto Layout, and @IBDesignable.
